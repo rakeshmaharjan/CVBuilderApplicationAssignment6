@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/telegram_menu"
+        android:icon="@drawable/telegram_icon"
+        android:title="@string/telegram"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/linked_in_menu"
+        android:icon="@drawable/linkedin_round_icon"
+        android:title="@string/linkedin"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/whats_app_menu"
+        android:icon="@drawable/add_icon"
+        android:title="@string/whatsapp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/gmail_menu"
+        android:icon="@drawable/add_icon"
+        android:title="@string/gmail"
+        app:showAsAction="ifRoom" />
+</menu>

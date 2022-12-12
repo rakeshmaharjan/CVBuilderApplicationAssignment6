@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CVBuilderAppAssignment6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+    <string name="cv">CV</string>
+    <string name="add">Add</string>
+    <string name="whatsapp">Whats App</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="cover_photo">Cover Photo</string>
+
+    <string name="name">Rakesh Maharjan</string>
+    <string name="position">Software Developer</string>
+    <string name="career_note">Career Note</string>
+    <string name="career_note_desc"><b>Completed</b> on-campus courses and currently taking distance education courses to complete a Master\'s Degree in Computer Science in MAHARISHI INTERNATIONAL UNIVERSITY and working as full time <b>W2</b> employee in <b>COOLSOFT</b>.</string>
+    <string name="tools_and_technology">Tools and Technology</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc">
+        <b>Language: </b>C#, JAVA \n
+        <b>Frameworks/web: </b>HTML5, CSS3, SCSS, Bootstrap, JavaScript, TypeScript, jQuery, AJAX, Kendo UI, jQuery, Angular Material Design \n
+        <b>Web services: </b>REST API, SOAP \n
+        <br>Frameworks: </br>NET Core, Spring Boot, Angular \n
+        <b>Databases: </b>MS SQL \n
+        <b>Design Patterns: </b> Strategy, Observer, Decorator, Factory, Abstract Factory, Singleton, Command, Adapter, Façade, Template \n
+        <b>SDLC: </b> Agile-Scrum \n
+        <b>Tools: </b>VS Code, Visual Studio, IntelliJ, Eclipse, JIRA, Postman, SSRS, Telerik Reporting, Git, TFS \n
+        <b>Platforms:</b> Windows, Mac OS \n
+    </string>
+    <string name="about_me_desc">Dynamic full stack application developer with 8+ years of hands-on experience designing, developing, and implementing software solutions using a range of technologies and programming languages. Able to deliver new and customized functionality using industry-standard coding techniques to create reusable, maintainable modules. Expertise includes languages and tools like C#, Java, TypeScript, JavaScript, jQuery, Angular, .NET, Spring Boot, and MS SQL.</string>
+    <string name="education">Education</string>
+    <string name="my_college">College</string>
+    <string name="certification">Certification</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="share_information">
+        Name: Rakesh Maharjan\n
+        LinkedIn Profile: https://www.linkedin.com/in/rakesh-maharjan
+    </string>
+
+    <string name="email">rakeshmaharjan@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/rakesh-maharjan</string>
+    <string name="github_profile">https://github.com/rakeshmaharjan</string>
+
+    <string name="login">login</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
+
+    <string name="my_contact_number">+16418192416</string>
+    <string name="my_email_address">rakeshmaharjan@miu.edu</string>
+
+
+</resources>
